@@ -22,4 +22,6 @@ diff(newCode, oldCode);
 //     ['+', 'oranges',4]
 // ]```
 
-When you have figured this out, DM your TL the solution that you have come up with.  It is also highly recommended that you create a repository on Github named coding challenges and upload your work to Github.  That way you keep getting green ticks on your Github graph.
+// When you have figured this out, DM your TL the solution that you have come up with.  
+// It is also highly recommended that you create a repository on Github named coding challenges and 
+// upload your work to Github.  That way you keep getting green ticks on your Github graph.
