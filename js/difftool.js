@@ -2,6 +2,8 @@
 
 // Given JavaScript objects like this:
 
+import { diff } from 'deep-diff';
+
 newCode = {
    apples: 3, 
    oranges: 4
@@ -14,7 +16,9 @@ oldCode = {
 
 // Create a function that returns an array of containing the object diff like the:
 
-diff(newCode, oldCode);
+var differences = diff(newCode, oldCode);
+
+console.log(differences);
 
 //returns: 
 // [
